@@ -101,15 +101,6 @@ The top 15 features driving the model's decisions (and their security significan
 
 4. **Open in your browser:** `http://localhost:8501`
 
-### Deploy to Streamlit Community Cloud
-
-1. Push this repo to GitHub (already done ✓)
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Click **New app** → connect your GitHub repo → select `app.py` as the main file
-4. Streamlit deploys automatically — get a public, shareable link
-
-This approach sidesteps local environment issues and gives you a live URL to share.
-
 ## App Features
 
 - **Interactive input form:** Select protocol type, service, connection flag, and enter numeric features
